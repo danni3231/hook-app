@@ -12,7 +12,7 @@ export const MultipleCustomHooks = () => {
 	//console.log(data);
 	return (
 		<>
-			<h1>MultipleCustomHooks</h1>
+			<h1>Pokedex</h1>
 			<h2>Pokemon Info:</h2>
 			{isLoading ? (
 				<LoadingMessage />
